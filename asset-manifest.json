@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookingCare-demo/static/css/main.60ed187a.css",
+    "main.js": "/BookingCare-demo/static/js/main.3cdee837.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BookingCare-demo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/BookingCare-demo/index.html",
+    "main.60ed187a.css.map": "/BookingCare-demo/static/css/main.60ed187a.css.map",
+    "main.3cdee837.js.map": "/BookingCare-demo/static/js/main.3cdee837.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BookingCare-demo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60ed187a.css",
+    "static/js/main.3cdee837.js"
+  ]
+}
