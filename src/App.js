@@ -41,7 +41,7 @@ function App() {
   // thiết lập API
   useEffect(() => {
     if(textSearch.trim() !== "") {
-      setApi(`https://www.googleapis.com/customsearch/v1/siterestrict?key=AIzaSyBUO8Tnd1Bdbb45o4Uk383VRv0dwtWZvUo&cx=c216e4e47b5d74ab5&q=${textSearch}&start=${number}`)
+      setApi(`https://www.googleapis.com/customsearch/v1/siterestrict?key=AIzaSyBkRruIsdAZTRJAbzn7SNH3x0n4NCdGoNc&cx=f2fbc064f3d414b32&q=${textSearch}&start=${number}`)
       console.log('>>>> check number lúc setAPI: ', number)
       console.log('>>>> check isEnter lúc setAPI: ', isEnter)
       console.log('.')
