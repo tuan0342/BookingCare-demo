@@ -148,7 +148,6 @@ function App() {
       </header> 
 
       <hr  width="95%" align="center" />
-      <div>Hahahaaa</div>
 
       {/* Body */}
       <div style={{marginLeft: 35, marginTop: 30}}>
